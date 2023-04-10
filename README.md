@@ -12,7 +12,7 @@ Headings type is a custom font called Intro. It is already included into the pag
 
 ## Images
 
-For gray images, use placeholders: https://placeholder.com, like:
+For gray images, use this placeholder image:
 ![](https://via.placeholder.com/800x600)
 
 All other images are provided into the `images` folder.
